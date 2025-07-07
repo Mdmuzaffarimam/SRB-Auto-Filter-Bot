@@ -189,7 +189,7 @@ So Join Our Paid Channel To enjoy The benefits . or Regret Later . Now get Premi
 6 Month: ₹300
 12 Month: ₹600
 
-Contact Us :- AkBoy_101😊😊
+Contact Us :- @AkBoy_101😊😊
 
 ❣️ Thanks For Supporting Me 💪 ❤✨
 
@@ -197,7 +197,7 @@ Contact Us :- AkBoy_101😊😊
 🏷️ <a href='https://t.me/SRBRips'>ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ ᴘʀᴏᴏꜰ</a>
 
 ‼️ ᴍᴜꜱᴛ ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀꜰᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
-‼️ ᴀꜰᴛᴇʀ ꜱᴇɴᴅɪɴɢ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇꜱ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ."""
+‼️ ᴀꜰᴛᴇʀ ꜱᴇɴᴅɪɴɢ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇꜱ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ.</b>"""
 
     PREMIUM_STAR_TEXT = """<b><blockquote>ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ: ᴛᴇʟᴇɢʀᴀᴍ ꜱᴛᴀʀꜱ ⭐</blockquote>
 
@@ -247,7 +247,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/+STRuLEmZ7AgxZjA1">{file_name}</a></b>\n\n•─────•─────────•─────•\n<b>✯ 𝖩𝗈𝗂𝗇 ➥ <a https://t.me/+STRuLEmZ7AgxZjA1>[🍿 @MRN_RIPPER 🍿 ]\n✯ 𝖩𝗈𝗂𝗇 ➥  [🍿 <a href="https://t.me/+FoUwTbhE6H45OTA1">@SRB_MOVIES_SEARCH_GROUP</a> 🍿]\n•─────•─────────•─────•</a></b>"""
+    CAPTION = """<b><a href="https://t.me/SRBRips">{file_name}</a></b>\n\n•─────•─────────•─────•\n<b>✯ 𝖩𝗈𝗂𝗇 ➥ <a https://t.me/SRBRips>[🍿 @SRBRips 🍿 ]\n✯ 𝖩𝗈𝗂𝗇 ➥  [🍿 <a href="https://t.me/+FoUwTbhE6H45OTA1">@SRB_MOVIES_SEARCH_GROUP</a> 🍿]\n•─────•─────────•─────•</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
