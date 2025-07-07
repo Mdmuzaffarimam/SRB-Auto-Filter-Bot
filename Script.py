@@ -179,14 +179,22 @@ Nᴀᴍᴇ - {}
 
     PREMIUM_TEXT = """<blockquote>🎖️ <b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</b></blockquote>
 
-◉ 07 ᴅᴀʏꜱ - 15 ₹ / 15 ꜱᴛᴀʀ 
-◉ 15 ᴅᴀʏꜱ - 30 ₹ / 30 ꜱᴛᴀʀ 
-◉ 01 ᴍᴏɴᴛʜꜱ - 60 ₹ / 60 ꜱᴛᴀʀ 
-◉ 02 ᴍᴏɴᴛʜꜱ - 120 ₹ / 120 ꜱᴛᴀʀ 
-◉ 03 ᴍᴏɴᴛʜꜱ - 220 ₹ / 220 ꜱᴛᴀʀ
+💥Hello Guys 
+Zee5, Voot, Sonyliv, Hotstar, Dangal Play, Sheemaroo Umang All Tv Show's and all OTT Movies and Webseries available in Direct Video File 
+So Join Our Paid Channel To enjoy The benefits . or Regret Later . Now get Premium At Cheapest Price
+
+1 Month:- ₹50
+2 Month: ₹100
+4 Month: ₹200
+6 Month: ₹300
+12 Month: ₹600
+
+Contact Us :- AkBoy_101😊😊
+
+❣️ Thanks For Supporting Me 💪 ❤✨
 
 •─────•─────────•─────•
-🏷️ <a href='https://t.me/+blcE2jS-iGtkMjNl'>ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ ᴘʀᴏᴏꜰ</a>
+🏷️ <a href='https://t.me/SRBRips'>ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ ᴘʀᴏᴏꜰ</a>
 
 ‼️ ᴍᴜꜱᴛ ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀꜰᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
 ‼️ ᴀꜰᴛᴇʀ ꜱᴇɴᴅɪɴɢ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇꜱ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ."""
