@@ -241,7 +241,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b>{file_name}\nUploaded By: <a herf="https://t.me/SilentXBotz">[SilentXBotz]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/+STRuLEmZ7AgxZjA1">{file_name}</a></b>\n\n•─────•─────────•─────•\n<b>✯ 𝖩𝗈𝗂𝗇 ➥ <a https://t.me/+STRuLEmZ7AgxZjA1>[🍿 @MRN_RIPPER 🍿 ]\n✯ 𝖩𝗈𝗂𝗇 ➥  [🍿 <a href="https://t.me/+FoUwTbhE6H45OTA1">@SRB_MOVIES_SEARCH_GROUP</a> 🍿]\n•─────•─────────•─────•</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
@@ -321,4 +321,4 @@ Requested by : {message.from_user.mention}</b>"""
 
     PAGE_TXT = """ᴡʜʏ ᴀʀᴇ ʏᴏᴜ ꜱᴏ ᴄᴜʀɪᴏᴜꜱ ⁉️"""    
    
-    SOURCE_TXT = """<b>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ :</b> 👇\nThis Is An Open-Source Project. You Can Use It Freely, But Selling The Source Code Is Strictly Prohibited."""
+    SOURCE_TXT = """<b>Nᴏᴛᴇ: \n\n𝐖𝐚𝐧𝐭 𝐀 𝐁𝐨𝐭 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:\n\n✭ I ᴡɪʟʟ ᴄʀᴇᴀᴛᴇ ᴏɴᴇ ʙᴏᴛ ғᴏʀ ʏᴏᴜ.\n✭ Cᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ☟</b>"""
